@@ -26,8 +26,39 @@ h2  {
 .main-text {
     text-align: justify;
     margin-bottom: 20px;
-
 }
+.sample-writing {
+    text-align: justify;
+    margin-bottom: 20px;
+}
+.intorduction{
+    text-align: justify;
+    margin-bottom: 20px;
+}
+.analysis {
+    text-align: justify;
+    margin-bottom: 20px;
+}
+.problem  {
+    text-align: justify;
+    margin-bottom: 20px
+}
+.recommendations  {
+    justify;
+    margin-bottom: 20px
+}
+
+.conclusion {
+    text-align: justify;
+    margin-bottom: 30px;
+    
+}
+
+.references {
+    text-align: justify;
+    margin-bottom: 30px;
+}
+    
 .author-text {
     font-size: 22px;
 }
@@ -51,4 +82,5 @@ h2  {
 img {
     width: 300px;
     height: 400px;
+    
 }
